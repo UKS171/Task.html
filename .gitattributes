@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="task.css" />
+    <title>Grid-task</title>
+  </head>
+  <body>
+    <div class="grid-container">
+      <div class="box green item1"></div>
+      <div class="box green item2"></div>
+      <div class="box red item3"></div>
+      <div class="box yellow item4"></div>
+      <div class="box red item5"></div>
+      <div class="box green item6"></div>
+      <div class="box red item7"></div>
+      <div class="box yellow item8"></div>
+      <div class="box green item9"></div>
+    </div>
+  </body>
+</html>
